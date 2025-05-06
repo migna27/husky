@@ -10,4 +10,5 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>mx.itson.tangamandapio.husky.Husky</exec.mainClass>
     </properties>
+    <name>Husky</name>
 </project>
